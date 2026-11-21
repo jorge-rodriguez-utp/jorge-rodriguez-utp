@@ -30,7 +30,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
 - **Perfil Profesional en LinkedIn:** [https://www.linkedin.com/in/jorge-rodriguez-utp](https://www.linkedin.com/in/jorge-rodriguez-utp)
-- **Curriculum Vitae Digital (PDF):** [Ver Portafolio y Documentación en GitHub Pages](https://jorge-rodriguez-utp.github.io/utp-redes-lab1/)
+- **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](https://github.com/jorge-rodriguez-utp/jorge-rodriguez-utp/blob/main/CV-Jorge-Rodriguez.pdf)
 - **Correo Institucional UTP:** jorge.rodriguez53@utp.ac.pa
 
 <p align="center">
