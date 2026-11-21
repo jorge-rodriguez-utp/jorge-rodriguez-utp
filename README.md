@@ -29,8 +29,8 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 ### 3. CV en LinkedIn y Canales Digitales
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
-- **Perfil Profesional en LinkedIn:** www.linkedin.com/in/jorge-rodriguez-65a0a3436
-- **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado]
+- **Perfil Profesional en LinkedIn:** [https://www.linkedin.com/in/jorge-rodriguez-utp](https://www.linkedin.com/in/jorge-rodriguez-utp)
+- **Curriculum Vitae Digital (PDF):** [Ver Portafolio y Documentación en GitHub Pages](https://jorge-rodriguez-utp.github.io/utp-redes-lab1/)
 - **Correo Institucional UTP:** jorge.rodriguez53@utp.ac.pa
 
 <p align="center">
